@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="35" height="35" tilewidth="10" tileheight="10" infinite="0" nextlayerid="13" nextobjectid="1">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="4" name="collision" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztlcsKACEIRdv4/7/cYlpJNtNDk+EciIiLcTOtUkDaOBkrAy3ay2r87n4A8G9G75y86ODPyv/jhbW3VSfRXrSPKC89MnnR0NcPmc5+oz5nNOoFIB/05R5f83Y6x6JmS++tue85KjynAUs=
+  </data>
+ </layer>
+ <layer id="5" name="walls" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztmMkKgDAMRN1uLjeXm8v/f6QJVAhiCm2Ngs6DObTpMoemqWYZyEnlzXNn0kJaA9erSW2kl540Rs5l2LP0m7oeAODb+O65I6bFgT2V8fgQOqWfa2jhJGupNv4OJsVHIyTrsKWXK7j2DkJvejnD3hanP78PLHMllKfPxOaJXeVW7HsYAGAH8jIN3z0oSfnH4NtX2//cL9v4rg9jB5z2BUE=
+  </data>
+ </layer>
+ <layer id="6" name="speed" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1rEJACAMBED3cf/9bLRTiBrE4g6+DHwRQkoBXqg9p7OZfuoCMNzcpmyrLpn96iQ7XeA3kX0G4E70f+BMAw4vBIo=
+  </data>
+ </layer>
+ <layer id="8" name="slow" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1DEKACAIQFEP5P3P19LkUFBmKv+BtISaVCIAqtIZQDR779TEbv9pTY/c3XoB0NfqX42mZv0p01xe8DzXTa7OM0YO3d8yahqbgwVV
+  </data>
+ </layer>
+ <layer id="9" name="heal" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt08EJAEAIA0Hrsf8CrwUfwfMxU4AsBKsAburfAaxI7NyhOwmTliutwB5/DwD3PZ41AVE=
+  </data>
+ </layer>
+ <layer id="10" name="death" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1EENAEAIA0Hs4N8gDu51gQRmFPTTjYA7cnoAAC30HnjRCPjPr9igAL3PAKU=
+  </data>
+ </layer>
+ <layer id="11" name="exit" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7B5wb9HLOwhPK2CJgBcme8AAAAAlQX0cwAk
+  </data>
+ </layer>
+ <layer id="12" name="chests" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt07EJAAAIA0HXcP9F7e2FgHfwfZpUAQBf9Aq4k/ixxE0AkGIA4osAlw==
+  </data>
+ </layer>
+</map>

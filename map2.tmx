@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<map version="1.10" tiledversion="1.11.2" orientation="orthogonal" renderorder="right-down" width="35" height="35" tilewidth="80" tileheight="80" infinite="0" nextlayerid="9" nextobjectid="1">
+ <tileset firstgid="1" source="tiles.tsx"/>
+ <layer id="1" name="walls" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztl7EKwCAMRKMda91qV///KxtxkZBitUIz3INbDg4OzA06IsoGtLEi2SASumjILo7lqb4dDfh+Mtf6ssvOCqxDZHt+mMy1vuxyshLrEtmenyZzrW/5Xv7Ecpenu1/Nlx2t5suOVoMdvcdyF+xI74IdVdBFBzvCjkZAFx38j/A/GgFddEqP8nbZgMrt3NuPE10=
+  </data>
+ </layer>
+ <layer id="2" name="speed" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt1zEKACAMA8D+x///z9WxIEgjd+BSKGbI0ir4yzpeZ367N92r3J1/ZCHVpL7IQqpJfZGFVJP6IksO9xH0bVDnCBE=
+  </data>
+ </layer>
+ <layer id="3" name="collision" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJzt17EKwCAQBNFr/P9fTh8mYISwC5kBG0F84DWumVlFqyEt3N3y9G47+6fntLyzJNPC7c7LV/eezO7fLcm0cM3zooUtybRwzfOihS3JtHDN/wAtbEmmhaP3Tq4Ltl4FtQ==
+  </data>
+ </layer>
+ <layer id="4" name="exit" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztzjENAAAIA7B5wb9HHOwjPK2CJgDQzXcAAADg2ALZGwAk
+  </data>
+ </layer>
+ <layer id="5" name="chests" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAADAtwETJAAB
+  </data>
+ </layer>
+ <layer id="6" name="slow" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAADAtwETJAAB
+  </data>
+ </layer>
+ <layer id="7" name="death" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAADAtwETJAAB
+  </data>
+ </layer>
+ <layer id="8" name="heal" width="35" height="35">
+  <data encoding="base64" compression="zlib">
+   eJztwQEBAAAAgiD/r25IQAEAAADAtwETJAAB
+  </data>
+ </layer>
+</map>
